@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RomaFom
-- 👀 I’m interested in new web development frameworks
-- 🌱 I’m currently learning software engineering, 3rd year
+- 👀 A Full-Stack Engineer
 - 📫 How to reach me: roma811@icloud.com
 
 <!---
